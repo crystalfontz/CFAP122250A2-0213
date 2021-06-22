@@ -231,8 +231,6 @@ void initEPD()
 //================================================================================
 void partialUpdateSolid(uint8_t x1, uint8_t y1, uint16_t x2, uint16_t y2, uint8_t color)
 {
-  //Please note, this is demonstration code on how to use the Partial Updating on the controller but this display itself
-  //  does not support partial updating. Using this code may cause ghosting issues over time.
 
   //Border Waveform Control
   writeCMD(0x3C);
