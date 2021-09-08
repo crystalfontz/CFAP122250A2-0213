@@ -51,6 +51,7 @@
 // RESE -> 2.2ohms
 //=============================================================================
 //Connecting the Arduino to the SD card
+//A CFA10112 micro SD card adapter can be used: https://www.crystalfontz.com/product/cfa10112
 //
 // ARDUINO  |Wire Color |Function
 // ---------+-----------+--------------------
